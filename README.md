@@ -1,6 +1,6 @@
 # DuffyNZReefFish
 
-This dataset was collected predominantly by Clinton Duffy (New Zealand Department of Conservation), with a small contribution by Adam Smith (Massey University). It contains abundance scores of fishes observed on rocky reefs during scuba dives in New Zealand. 
+This dataset was collected predominantly by Clinton Duffy (New Zealand Department of Conservation), with a small contribution by Adam Smith (Massey University). It contains abundance scores of fishes observed on rocky reefs during scuba dives around the coast of New Zealand. 
 
 These data were used in the following publications:
 
