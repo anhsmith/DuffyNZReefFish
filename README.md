@@ -2,6 +2,8 @@
 
 This dataset was collected predominantly by Clinton Duffy (New Zealand Department of Conservation), with a small contribution by Adam Smith (Massey University). It contains abundance scores of fishes observed on rocky reefs during scuba dives around the coast of New Zealand. 
 
+Please contact the authors if you wish to use this dataset, and acknowledge the source. 
+
 These data were used in the following publications:
 
 Howarth OR, Liggins L, Smith ANH (2021) Using qualitative data to classify reef fishes into dietary guilds. Austral Ecology 46:982–990. https://doi.org/10.1111/aec.13072
